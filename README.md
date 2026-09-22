@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 16 Solved
+## Progress Summary: 17 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -19,6 +19,7 @@
 | palindrome-number | Palindrome Number | Easy | cpp | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.cpp) |
 | remove-element | Remove Element | Easy | cpp | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](./solutions/Easy/0027-remove-element/solution.cpp) |
 | roman-to-integer | Roman to Integer | Easy | cpp | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](./solutions/Easy/0013-roman-to-integer/solution.cpp) |
+| search-insert-position | Search Insert Position | Easy | cpp | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.cpp) |
 | second-highest-salary | Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | two-sum | Two Sum | Easy | cpp | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.cpp) |
 | valid-parentheses | Valid Parentheses | Easy | cpp | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.cpp) |
