@@ -4,7 +4,7 @@
 // Tags     : Array, Two Pointers
 // Link     : https://leetcode.com/problems/remove-element/
 // Runtime  : 0 ms (beats 100%)
-// Memory   : 11648000 (beats 84%)
+// Memory   : 11644000 (beats 84%)
 // Language : cpp
 // Copyright: (c) 2026 YathichaC. All rights reserved.
 // Synced by: leetie
