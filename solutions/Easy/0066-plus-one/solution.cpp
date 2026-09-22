@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/plus-one/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 8352000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 11556000 (beats 60%)
 // Language : cpp
 // Copyright: (c) 2026 YathichaC. All rights reserved.
 // Synced by: leetie
