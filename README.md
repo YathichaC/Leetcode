@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 8 Solved
+## Progress Summary: 9 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | cpp | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.cpp) |
 | find-the-index-of-the-first-occurrence-in-a-string | Find the Index of the First Occurrence in a String | Easy | cpp | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) |
 | longest-common-prefix | Longest Common Prefix | Easy | cpp | [Problem](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./solutions/Easy/0014-longest-common-prefix/solution.cpp) |
 | median-of-two-sorted-arrays | Median of Two Sorted Arrays | Hard | cpp | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./solutions/Hard/0004-median-of-two-sorted-arrays/solution.cpp) |
