@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 18 Solved
+## Progress Summary: 19 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,6 +18,7 @@
 | longest-common-prefix | Longest Common Prefix | Easy | cpp | [Problem](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./solutions/Easy/0014-longest-common-prefix/solution.cpp) |
 | median-of-two-sorted-arrays | Median of Two Sorted Arrays | Hard | cpp | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./solutions/Hard/0004-median-of-two-sorted-arrays/solution.cpp) |
 | palindrome-number | Palindrome Number | Easy | cpp | [Problem](https://leetcode.com/problems/palindrome-number/) | [Solution](./solutions/Easy/0009-palindrome-number/solution.cpp) |
+| plus-one | Plus One | Easy | cpp | [Problem](https://leetcode.com/problems/plus-one/) | [Solution](./solutions/Easy/0066-plus-one/solution.cpp) |
 | remove-element | Remove Element | Easy | cpp | [Problem](https://leetcode.com/problems/remove-element/) | [Solution](./solutions/Easy/0027-remove-element/solution.cpp) |
 | roman-to-integer | Roman to Integer | Easy | cpp | [Problem](https://leetcode.com/problems/roman-to-integer/) | [Solution](./solutions/Easy/0013-roman-to-integer/solution.cpp) |
 | search-insert-position | Search Insert Position | Easy | cpp | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.cpp) |
