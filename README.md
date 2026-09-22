@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 11 Solved
+## Progress Summary: 12 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | circular-sentence | Circular Sentence | Easy | cpp | [Problem](https://leetcode.com/problems/circular-sentence/) | [Solution](./solutions/Easy/2490-circular-sentence/solution.cpp) |
+| combine-two-tables | Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | delete-characters-to-make-fancy-string | Delete Characters to Make Fancy String | Easy | cpp | [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Solution](./solutions/Easy/1957-delete-characters-to-make-fancy-string/solution.cpp) |
 | find-minimum-in-rotated-sorted-array-ii | Find Minimum in Rotated Sorted Array II | Hard | cpp | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution](./solutions/Hard/0154-find-minimum-in-rotated-sorted-array-ii/solution.cpp) |
 | find-the-index-of-the-first-occurrence-in-a-string | Find the Index of the First Occurrence in a String | Easy | cpp | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) |
