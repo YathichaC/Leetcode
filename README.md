@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 20 Solved
+## Progress Summary: 21 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| best-time-to-buy-and-sell-stock | Best Time to Buy and Sell Stock | Easy | cpp | [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./solutions/Easy/0121-best-time-to-buy-and-sell-stock/solution.cpp) |
 | circular-sentence | Circular Sentence | Easy | cpp | [Problem](https://leetcode.com/problems/circular-sentence/) | [Solution](./solutions/Easy/2490-circular-sentence/solution.cpp) |
 | climbing-stairs | Climbing Stairs | Easy | cpp | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/Easy/0070-climbing-stairs/solution.cpp) |
 | combine-two-tables | Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
