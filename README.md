@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 19 Solved
+## Progress Summary: 20 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | circular-sentence | Circular Sentence | Easy | cpp | [Problem](https://leetcode.com/problems/circular-sentence/) | [Solution](./solutions/Easy/2490-circular-sentence/solution.cpp) |
+| climbing-stairs | Climbing Stairs | Easy | cpp | [Problem](https://leetcode.com/problems/climbing-stairs/) | [Solution](./solutions/Easy/0070-climbing-stairs/solution.cpp) |
 | combine-two-tables | Combine Two Tables | Easy | mysql | [Problem](https://leetcode.com/problems/combine-two-tables/) | [Solution](./solutions/Easy/0175-combine-two-tables/solution.sql) |
 | customers-who-never-order | Customers Who Never Order | Easy | mysql | [Problem](https://leetcode.com/problems/customers-who-never-order/) | [Solution](./solutions/Easy/0183-customers-who-never-order/solution.sql) |
 | delete-characters-to-make-fancy-string | Delete Characters to Make Fancy String | Easy | cpp | [Problem](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Solution](./solutions/Easy/1957-delete-characters-to-make-fancy-string/solution.cpp) |
