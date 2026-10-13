@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 21 Solved
+## Progress Summary: 22 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -26,4 +26,5 @@
 | search-insert-position | Search Insert Position | Easy | cpp | [Problem](https://leetcode.com/problems/search-insert-position/) | [Solution](./solutions/Easy/0035-search-insert-position/solution.cpp) |
 | second-highest-salary | Second Highest Salary | Medium | mysql | [Problem](https://leetcode.com/problems/second-highest-salary/) | [Solution](./solutions/Medium/0176-second-highest-salary/solution.sql) |
 | two-sum | Two Sum | Easy | cpp | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.cpp) |
+| valid-palindrome | Valid Palindrome | Easy | cpp | [Problem](https://leetcode.com/problems/valid-palindrome/) | [Solution](./solutions/Easy/0125-valid-palindrome/solution.cpp) |
 | valid-parentheses | Valid Parentheses | Easy | cpp | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.cpp) |
